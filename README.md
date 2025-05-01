@@ -31,6 +31,8 @@ With **Cross Validation** technique we evaluate the final model on the **test da
 and we reached **0.82 R2**, amazinggg.
 
 # Streamlit App
+https://house-price-prediction0.streamlit.app/
+
 An interactive web app to try the model.
 
 # License
